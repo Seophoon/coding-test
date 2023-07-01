@@ -17,4 +17,5 @@ public class Main {
         System.out.println(A*C);
         System.out.println(A*B);
     }
+    
 }
