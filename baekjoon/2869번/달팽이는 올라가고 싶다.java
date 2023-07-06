@@ -7,7 +7,7 @@ public class Main {
 
         int A = in.nextInt(); //낮에 올라가는 높이
         int B = in.nextInt(); //밤에 떨어지는 높이
-        int V = in.nextInt(); //나무길기
+        int V = in.nextInt(); //나무길이
         in.close();
 
         int date = 0;
